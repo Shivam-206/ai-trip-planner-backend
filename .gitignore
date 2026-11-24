@@ -1,0 +1,15 @@
+node_modules/
+.env*
+
+logs/
+log/
+tmp/
+temp/
+.cache/
+
+*.log
+npm-debug.log*
+*.tmp
+*.temp
+*.bak
+*.swp
